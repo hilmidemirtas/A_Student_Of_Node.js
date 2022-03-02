@@ -33,6 +33,8 @@ res.end();
 
 });
 
+//ödev oluşturuldu 02.03.2022
+
 const port = 5000;
 
 server.listen(port, ()=> 
