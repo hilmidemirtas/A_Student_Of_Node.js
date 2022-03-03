@@ -11,8 +11,6 @@ Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h1 başlıkları 
 port numarası olarak 3000'i kullanalım.
 Koa Dökümantasyon
 
-
-
 Kolay gelsin.
 
 */
@@ -41,3 +39,5 @@ const port = 3000;
   app.listen(3000,() => {
       console.log(`app started on port ${port}`)
   })
+
+//ödev oluşturuldu
