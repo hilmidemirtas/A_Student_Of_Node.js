@@ -42,3 +42,5 @@ server.listen(port, ()=>
     console.log(`sunucu ${port}'de başlatıldı`)
 });
 
+
+//we have also nodemon, "npm start"
