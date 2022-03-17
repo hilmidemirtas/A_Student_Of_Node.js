@@ -1,3 +1,5 @@
+//FS (File System) modülü Node.js'in dosya ve klasör işlemleri yaparken kullandığı bir çekirdek modülüdür.
+
 const fs = require('fs');
 
 //dosya oluşturuldu
