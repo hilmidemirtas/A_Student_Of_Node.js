@@ -1,1 +1,1 @@
-# Parika Clean Blog Projesi
+# Patika Clean Blog Projesi
