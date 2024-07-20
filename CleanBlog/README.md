@@ -1,1 +1,0 @@
-# Patika Clean Blog Projesi
